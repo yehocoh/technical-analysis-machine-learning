@@ -1,6 +1,5 @@
 # technical-analysis-machine-learning
 Predicting buy or sell orders using technical analysis and machine learning
-# GitHub README
 
 ## Project Name: Trading Strategy with Machine Learning
 
